@@ -14,6 +14,7 @@
     <RepositoryUrl />
     <Copyright>berkid89</Copyright>
     <License>MIT</License>
+    <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
