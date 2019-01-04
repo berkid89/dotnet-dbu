@@ -13,7 +13,7 @@
     <PackageProjectUrl>https://github.com/berkid89/dotnet-dbu</PackageProjectUrl>
     <RepositoryUrl />
     <Copyright>berkid89</Copyright>
-    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <License>MIT</License>
   </PropertyGroup>
 
   <ItemGroup>
